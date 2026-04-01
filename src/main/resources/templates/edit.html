@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body class="container mt-4">
+
+<h2>Edit Book</h2>
+
+<form th:action="@{'/update/' + ${book.id}}" th:object="${book}" method="post">
+
+    <input type="text" th:field="*{title}"/>
+    <input type="text" th:field="*{author}"/>
+    <input type="number" step="0.01" th:field="*{price}"/>
+
+    <button type="submit">Update</button>
+</form>
+
+</body>
+</html>
