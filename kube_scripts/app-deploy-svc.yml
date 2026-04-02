@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: spring-bookapp
-          image: zaidmohammad038/Springboot-bookApp-monitoring-using_prometheus-grafana:latest
+          image: zaidmohammad038/springboot-bookapp-monitoring-using_prometheus-grafana:latest
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 8085
