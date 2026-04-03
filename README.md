@@ -1,3 +1,44 @@
+# 📚 Spring Boot BookApp Monitoring System using Kubernetes, Prometheus & Grafana
+
+![GitHub Repo Banner](https://img.shields.io/badge/Project-DevOps%20Monitoring-blue) ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployed-blueviolet) ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange) ![Grafana](https://img.shields.io/badge/Grafana-Dashboard-yellow)
+
+A production-style **end-to-end DevOps project** that demonstrates how to build, containerize, deploy, and monitor a Spring Boot CRUD application in a Kubernetes cluster.
+
+This project covers:
+
+* 🚀 Application deployment using Kubernetes
+* 🐳 Docker image build and push
+* 🗄️ MySQL StatefulSet deployment
+* 📈 Monitoring with Prometheus
+* 📊 Dashboard visualization with Grafana
+* 🛠️ Real-world troubleshooting and issue resolution
+
+---
+
+## 📸 Project Screenshots
+
+Add the following screenshots in your GitHub repo inside a `screenshots/` folder and reference them here:
+
+### 📊 Grafana Dashboard
+
+```markdown
+![Grafana Dashboard](screenshots/grafana-dashboard.png)
+```
+
+### 📈 Prometheus Targets / Metrics
+
+```markdown
+![Prometheus Metrics](screenshots/prometheus-metrics.png)
+```
+
+### 📚 BookApp Application UI / API Output
+
+```markdown
+![BookApp Application](screenshots/bookapp-app.png)
+```
+
+---
+
 # Spring Boot BookApp Monitoring System using Kubernetes, Prometheus & Grafana
 
 ## Project Overview
