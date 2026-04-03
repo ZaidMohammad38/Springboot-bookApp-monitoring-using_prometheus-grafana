@@ -1,9 +1,6 @@
 # 📚 Spring Boot BookApp Monitoring System using Kubernetes, Prometheus & Grafana
 
-![GitHub Repo Banner](https://img.shields.io/badge/Project-DevOps%20Monitoring-blue) 
-!<img width="1919" height="942" alt="Screenshot 2026-04-03 121834" src="https://github.com/user-attachments/assets/6548a342-db5e-4589-9108-9a8fe0cc0ec1" />
-!<img width="1919" height="871" alt="Screenshot 2026-04-03 121812" src="https://github.com/user-attachments/assets/7086e863-523d-4d50-8967-cb8fa2c15803" />
-<img width="1523" height="868" alt="Screenshot 2026-04-03 121757" src="https://github.com/user-attachments/assets/043f07c7-9585-4752-98a1-53645eb8952f" />
+![GitHub Repo Banner](https://img.shields.io/badge/Project-DevOps%20Monitoring-blue) ![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Deployed-blueviolet) ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange) ![Grafana](https://img.shields.io/badge/Grafana-Dashboard-yellow)
 
 A production-style **end-to-end DevOps project** that demonstrates how to build, containerize, deploy, and monitor a Spring Boot CRUD application in a Kubernetes cluster.
 
@@ -25,19 +22,19 @@ Add the following screenshots in your GitHub repo inside a `screenshots/` folder
 ### 📊 Grafana Dashboard
 
 ```markdown
-![Grafana Dashboard](screenshots/grafana-dashboard.png)
+<img width="1523" height="868" alt="Screenshot 2026-04-03 121757" src="https://github.com/user-attachments/assets/ebbbd92b-16f7-4d1b-bb81-c06c5400d247" />
 ```
 
 ### 📈 Prometheus Targets / Metrics
 
 ```markdown
-![Prometheus Metrics](screenshots/prometheus-metrics.png)
+<img width="1919" height="871" alt="Screenshot 2026-04-03 121812" src="https://github.com/user-attachments/assets/5ce4e79b-37ff-42d3-a5f0-5a01bc61b4cb" />
 ```
 
 ### 📚 BookApp Application UI / API Output
 
 ```markdown
-![BookApp Application](screenshots/bookapp-app.png)
+<img width="1919" height="942" alt="Screenshot 2026-04-03 121834" src="https://github.com/user-attachments/assets/085c7ac7-f51d-449f-ba59-496382599f74" />
 ```
 
 ---
