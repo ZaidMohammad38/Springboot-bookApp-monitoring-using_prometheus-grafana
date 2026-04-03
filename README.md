@@ -21,21 +21,21 @@ Add the following screenshots in your GitHub repo inside a `screenshots/` folder
 
 ### 📊 Grafana Dashboard
 
-```markdown
+
 <img width="1523" height="868" alt="Screenshot 2026-04-03 121757" src="https://github.com/user-attachments/assets/ebbbd92b-16f7-4d1b-bb81-c06c5400d247" />
-```
+
 
 ### 📈 Prometheus Targets / Metrics
 
-```markdown
+
 <img width="1919" height="871" alt="Screenshot 2026-04-03 121812" src="https://github.com/user-attachments/assets/5ce4e79b-37ff-42d3-a5f0-5a01bc61b4cb" />
-```
+
 
 ### 📚 BookApp Application UI / API Output
 
-```markdown
+
 <img width="1919" height="942" alt="Screenshot 2026-04-03 121834" src="https://github.com/user-attachments/assets/085c7ac7-f51d-449f-ba59-496382599f74" />
-```
+
 
 ---
 
