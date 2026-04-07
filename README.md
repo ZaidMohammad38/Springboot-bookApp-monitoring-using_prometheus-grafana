@@ -251,7 +251,7 @@ scrape_configs:
       - targets: ['13.235.17.136:9100']
 
   - job_name: 'springboot-app'
-    metrics_path: /actuator/prometheus
+    metrics_path: '/actuator/prometheus'
     static_configs:
       - targets: ['13.235.17.136:30088']
 ```
